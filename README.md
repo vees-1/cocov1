@@ -29,9 +29,9 @@ A CNN-based image classifier trained on COCO 2014 to detect persons. Built with 
 
 COCO 2014
 
-| Train | Val |
+| Train images | Val images|
 |---|---|
-| 51,573 | 21,786 |
+| 51,573 | 25,066 |
 
 
 ## Project Structure
