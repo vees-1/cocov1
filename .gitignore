@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+models/
+*.pth
+*.pt
+*.onnx
+
+# Data
+coco2014/
+
+# Logs
+logs/
+runs/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
