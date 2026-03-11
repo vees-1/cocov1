@@ -1,4 +1,4 @@
-#  COCO Person classifier
+#  COCO Person classifier and detector
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![HuggingFaces](https://img.shields.io/badge/Huggingfaces-Live%20Demo-FF4B4B.svg)](https://huggingface.co/spaces/veees/coco)
