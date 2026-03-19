@@ -4,7 +4,7 @@
 [![HuggingFaces](https://img.shields.io/badge/Huggingfaces-Live%20Demo-FF4B4B.svg)](https://huggingface.co/spaces/veees/coco)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A CNN-based image classifier trained on COCO 2014 to detect persons. Built with PyTorch.
+A CNN-based image classifier trained on COCO 2014 to classify persons. Built with PyTorch.
 
 ---
 
